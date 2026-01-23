@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+.hero {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+section {
+    padding: 20px;
+}
