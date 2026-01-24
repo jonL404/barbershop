@@ -1,42 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "T:\\Repositorio\\Programas recentes\\barbershop\\",
+  "WorkspaceRootPath": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\telaservi\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaservi\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\telaservi\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaservi\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|t:\\repositorio\\programas recentes\\barbershop\\barbearia\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telaremovercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaremovercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telacancelamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telacancelamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telacancelamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telacancelamentoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telaadminclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaadminclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telaremovercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaremovercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telaadminclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telaadminclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telacadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telacadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|d:\\usu\u00E1rios\\limaj\\programdata\\coding\\barbershop-in-c-\\barbearia\\telacadastrarcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8BD59-4317-4DDC-9A21-6AFC87955F46}|BARBEARIA\\BARBEARIA.csproj|solutionrelative:barbearia\\telacadastrarcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,117 +90,192 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "telaServi\u00E7o.cs",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaServi\u00E7o.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\telaServi\u00E7o.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaServi\u00E7o.cs",
-              "RelativeToolTip": "BARBEARIA\\telaServi\u00E7o.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswE4AAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "telaInicial.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaInicial.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaInicial.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaInicial.cs",
+              "RelativeToolTip": "BARBEARIA\\telaInicial.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAlwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T19:24:51.243Z",
+              "WhenOpened": "2026-01-24T01:20:27.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "telaServi\u00E7o.cs [Design]",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaServi\u00E7o.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\telaServi\u00E7o.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaServi\u00E7o.cs [Design]",
-              "RelativeToolTip": "BARBEARIA\\telaServi\u00E7o.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\Program.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\Program.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\Program.cs",
+              "RelativeToolTip": "BARBEARIA\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T19:20:38.891Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "telaCadastro.cs",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaCadastro.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\telaCadastro.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaCadastro.cs",
-              "RelativeToolTip": "BARBEARIA\\telaCadastro.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T18:43:27.437Z",
+              "WhenOpened": "2026-01-24T01:19:13.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "telaInicial.cs",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaInicial.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\telaInicial.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaInicial.cs",
-              "RelativeToolTip": "BARBEARIA\\telaInicial.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDAAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "telaLogin.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaLogin.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaLogin.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaLogin.cs",
+              "RelativeToolTip": "BARBEARIA\\telaLogin.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAEwG4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T18:24:58.747Z",
+              "WhenOpened": "2026-01-24T01:17:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "telaLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaLogin.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaLogin.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaLogin.cs [Design]",
+              "RelativeToolTip": "BARBEARIA\\telaLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:17:17.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "telaInicial.cs [Design]",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaInicial.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaInicial.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaInicial.cs [Design]",
+              "RelativeToolTip": "BARBEARIA\\telaInicial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:17:12.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "telaCancelamentoServico.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCancelamentoServico.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaCancelamentoServico.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCancelamentoServico.cs",
+              "RelativeToolTip": "BARBEARIA\\telaCancelamentoServico.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAlwGIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:15:06.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "telaCadastro.cs [Design]",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaCadastro.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\telaCadastro.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaCadastro.cs [Design]",
-              "RelativeToolTip": "BARBEARIA\\telaCadastro.cs [Design]",
+              "Title": "telaAdmin.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdmin.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaAdmin.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdmin.cs",
+              "RelativeToolTip": "BARBEARIA\\telaAdmin.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T18:12:12.454Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DbHelper.cs",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\Data\\DbHelper.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\Data\\DbHelper.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\Data\\DbHelper.cs",
-              "RelativeToolTip": "BARBEARIA\\Data\\DbHelper.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwEkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T18:00:08.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\Models\\LoginModel.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\Models\\LoginModel.cs",
-              "RelativeToolTip": "BARBEARIA\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T17:47:33.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "telaLogin.cs",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaLogin.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\telaLogin.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaLogin.cs",
-              "RelativeToolTip": "BARBEARIA\\telaLogin.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwE4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T17:33:13.098Z",
+              "WhenOpened": "2026-01-24T01:14:55.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "telaInicial.cs [Design]",
-              "DocumentMoniker": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaInicial.cs",
-              "RelativeDocumentMoniker": "BARBEARIA\\telaInicial.cs",
-              "ToolTip": "T:\\Repositorio\\Programas recentes\\barbershop\\BARBEARIA\\telaInicial.cs [Design]",
-              "RelativeToolTip": "BARBEARIA\\telaInicial.cs [Design]",
+              "Title": "telaRemoverCliente.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaRemoverCliente.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaRemoverCliente.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaRemoverCliente.cs",
+              "RelativeToolTip": "BARBEARIA\\telaRemoverCliente.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAlwFgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T18:23:24.162Z",
+              "WhenOpened": "2026-01-24T01:12:43.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "telaAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdmin.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaAdmin.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdmin.cs [Design]",
+              "RelativeToolTip": "BARBEARIA\\telaAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:05:30.022Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "telaCancelamentoServico.cs [Design]",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCancelamentoServico.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaCancelamentoServico.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCancelamentoServico.cs [Design]",
+              "RelativeToolTip": "BARBEARIA\\telaCancelamentoServico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:15:03.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "telaAdminClientes.cs [Design]",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdminClientes.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaAdminClientes.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdminClientes.cs [Design]",
+              "RelativeToolTip": "BARBEARIA\\telaAdminClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:05:36.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "telaAdminClientes.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdminClientes.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaAdminClientes.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaAdminClientes.cs",
+              "RelativeToolTip": "BARBEARIA\\telaAdminClientes.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:08:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "telaCadastrarCliente.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCadastrarCliente.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaCadastrarCliente.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCadastrarCliente.cs",
+              "RelativeToolTip": "BARBEARIA\\telaCadastrarCliente.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAtwGIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:05:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "telaRemoverCliente.cs [Design]",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaRemoverCliente.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaRemoverCliente.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaRemoverCliente.cs [Design]",
+              "RelativeToolTip": "BARBEARIA\\telaRemoverCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:12:00.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "telaCadastrarCliente.Designer.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCadastrarCliente.Designer.cs",
+              "RelativeDocumentMoniker": "BARBEARIA\\telaCadastrarCliente.Designer.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\limaj\\ProgramData\\Coding\\Barbershop-in-C-\\BARBEARIA\\telaCadastrarCliente.Designer.cs",
+              "RelativeToolTip": "BARBEARIA\\telaCadastrarCliente.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAtwHcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:06:20.299Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Net.Mail;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using BARBEARIA.Models;
 using BARBEARIA.Data; // <- import do helper
@@ -53,7 +46,7 @@ namespace BARBEARIA
 
             try
             {
-                var _ = new System.Net.Mail.MailAddress(model.Email);
+                var _ = new MailAddress(model.Email);
             }
             catch
             {
@@ -71,14 +64,16 @@ namespace BARBEARIA
 
             try
             {
-                var authenticated = DbHelper.ValidateUser(model.Email, model.Senha);
-                if (authenticated)
+                // Autentica e obtém o nível do usuário
+                var nivel = DbHelper.AuthenticateUserLevel(model.Email, model.Senha);
+                if (!string.IsNullOrEmpty(nivel))
                 {
-                    MessageBox.Show("Login efetuado com sucesso.", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    // abre a tela de serviço após login bem-sucedido
+                    MessageBox.Show($"Login efetuado com sucesso. Nível: {nivel}", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    // abre a tela inicial após login bem-sucedido
                     this.Hide();
                     var init = new telaInicial();
                     init.Show();
+                    // Opcional: outras telas podem ler DbHelper.CurrentUserLevel para permissões
                 }
                 else
                 {
@@ -107,13 +102,13 @@ namespace BARBEARIA
         private void button2_Click_1(object sender, EventArgs e)
         {
             this.Hide();
-            telaCadastro telaCadastro = new telaCadastro();
+            telaCadastrarCliente telaCadastro = new telaCadastrarCliente();
             telaCadastro.Show();
         }
 
         private void exitButton_Click(object sender, EventArgs e)
         {
-            Close();
+            Application.Exit();
         }
     }
 }

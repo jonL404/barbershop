@@ -96,6 +96,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\DbHelper.cs" />
+    <Compile Include="telaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaAdmin.Designer.cs">
+      <DependentUpon>telaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaAdminClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaAdminClientes.Designer.cs">
+      <DependentUpon>telaAdminClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCancelamentoServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCancelamentoServico.Designer.cs">
+      <DependentUpon>telaCancelamentoServico.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\LoginModel.cs" />
     <Compile Include="telaInicial.cs">
       <SubType>Form</SubType>
@@ -103,9 +121,17 @@
     <Compile Include="telaInicial.Designer.cs">
       <DependentUpon>telaInicial.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaServiço.cs" />
-    <Compile Include="telaServiço.Designer.cs">
-      <DependentUpon>telaServiço.cs</DependentUpon>
+    <Compile Include="telaRemoverCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaRemoverCliente.Designer.cs">
+      <DependentUpon>telaRemoverCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaServico.Designer.cs">
+      <DependentUpon>telaServico.cs</DependentUpon>
     </Compile>
     <Compile Include="telaLogin.cs">
       <SubType>Form</SubType>
@@ -113,25 +139,37 @@
     <Compile Include="telaLogin.Designer.cs">
       <DependentUpon>telaLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaCadastro.cs">
+    <Compile Include="telaCadastrarCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaCadastro.Designer.cs">
-      <DependentUpon>telaCadastro.cs</DependentUpon>
+    <Compile Include="telaCadastrarCliente.Designer.cs">
+      <DependentUpon>telaCadastrarCliente.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="telaAdmin.resx">
+      <DependentUpon>telaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaAdminClientes.resx">
+      <DependentUpon>telaAdminClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCancelamentoServico.resx">
+      <DependentUpon>telaCancelamentoServico.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="telaInicial.resx">
       <DependentUpon>telaInicial.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaServiço.resx">
-      <DependentUpon>telaServiço.cs</DependentUpon>
+    <EmbeddedResource Include="telaRemoverCliente.resx">
+      <DependentUpon>telaRemoverCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaServico.resx">
+      <DependentUpon>telaServico.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="telaLogin.resx">
       <DependentUpon>telaLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaCadastro.resx">
-      <DependentUpon>telaCadastro.cs</DependentUpon>
+    <EmbeddedResource Include="telaCadastrarCliente.resx">
+      <DependentUpon>telaCadastrarCliente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

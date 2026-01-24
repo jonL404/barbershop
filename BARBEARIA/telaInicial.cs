@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BARBEARIA.Data; // adicionado para acessar DbHelper
 
 namespace BARBEARIA
 {
@@ -29,7 +30,8 @@ namespace BARBEARIA
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            // Mostrar botão admin apenas se o usuário logado tiver nível "admin"
+            adminButton.Visible = string.Equals(DbHelper.CurrentUserLevel, "admin", StringComparison.OrdinalIgnoreCase);
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -45,8 +47,8 @@ namespace BARBEARIA
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
-            telaServiço f = new telaServiço();
-            f.Show();
+            telaServico serviceForms = new telaServico();
+            serviceForms.Show();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
@@ -62,6 +64,20 @@ namespace BARBEARIA
         private void pictureBox3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            telaLogin loginForms = new telaLogin();
+            loginForms.Show();
+        }
+
+        private void adminButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            telaAdmin adminForms = new telaAdmin();
+            adminForms.Show();
         }
     }
 }
